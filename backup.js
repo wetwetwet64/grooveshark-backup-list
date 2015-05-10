@@ -1,1 +1,2 @@
-var backupGrooveshark = /** Output from https://gist.github.com/simonc/ec00955845e23046f6d8 goes here **/;
+var backupGrooveshark = {"lastModified":1430222365,"songs":{"31675320":{"A":6586983,"B":"VII Sarangi","C":17482,"D":"Buddha Bar","E":"6586983.jpg","F":0,"H":1511800061,"I":31675320,"J":"Mambayaga Project _ Clockwork (Shantel vs Mahala Rai Banda remix)","L":0,"M":0,"N":0,"O":"2015-03-27 10:11:42","P":[678,75,153],"G":0},"38453590":{"A":8232414,"B":"Project X OST","C":1164089,"D":"The xx","E":"","F":0,"H":1511400337,"I":38453590,"J":"Intro (Long Version)","L":0,"M":2009,"N":0,"O":"2015-03-27 10:11:36","P":[3773,6437,104],"G":0}}}
+;
